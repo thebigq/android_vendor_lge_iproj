@@ -94,7 +94,6 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_COPY_FILES += \
-	vendor/lge/iproj/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
 	vendor/lge/iproj/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so
 
 # Boot/Charger logo stuff
